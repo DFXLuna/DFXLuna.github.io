@@ -1,5 +1,4 @@
 # Matt Grant
-#### Software Developer
 
 Hi, I'm a software developer looking for somewhere in the industry to get my foot in the door.
 
