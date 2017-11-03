@@ -19,7 +19,7 @@ A timewaster game developed in C# with Unity with auxiliary tools developed in P
 * Quick turn around time for learning new language and framework
 * Custom language interpreter built in C# and language syntax checker built in Python
 
-### Stochastic A*
+### Stochastic A Star
 ![Stochastic1](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SAS1.png)
 
 ###### Image credit [Julian Togelius](http://julian.togelius.com/mariocompetition2009/)
