@@ -5,7 +5,7 @@ Hi, I'm a software developer looking for somewhere in the industry to get my foo
 ## Projects
 
 ### Slumlord Simulator
-![Slumlord Simulator1](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SS3.png "Slumlord Simulator Screenshot")
+<img src="https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SS3.png">
 
 A timewaster game developed in C# with Unity with auxiliary tools developed in Python. 
 
@@ -20,7 +20,7 @@ A timewaster game developed in C# with Unity with auxiliary tools developed in P
 * Custom language interpreter built in C# and language syntax checker built in Python
 
 ### Stochastic A Star
-![Stochastic1](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SAS1.png)
+<img src="https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SAS1.png">
 
 ###### Image credit [Julian Togelius](http://julian.togelius.com/mariocompetition2009/)
 
@@ -36,7 +36,7 @@ An implementation of the classic [A* algorithm](https://en.wikipedia.org/wiki/A*
 * Innovation of the A Star algorithm using object-oriented best practices to help the algorithm mitigate unknown side effects applied to algorithm output
 
 ### mtgimg
-![mtgimg 1](https://github.com/DFXLuna/mtgimg/blob/master/out.png "mtgimg screenshot")
+<img src="https://github.com/DFXLuna/mtgimg/blob/master/out.png">
 
 A command line tool for generating clean looking decklist images of Magic: the Gathering cards.
 
