@@ -36,6 +36,20 @@ A command line tool for generating clean looking decklist images of Magic: the G
 * Queries an API to gather image data
 * Manipulates image data using PIL
 
+#### Stochastic A*
+![Stochastic1](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SAS1.png)
+
+###### Image credit [Julian Togelius](http://julian.togelius.com/mariocompetition2009/)
+
+An implementation of the classic [A* algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) using the Mario AI 2009 engine.
+
+[Full Details](https://github.com/DFXLuna/StochasticAStar/blob/master/README.md)
+[Repo](https://github.com/DFXLuna/StochasticAStar)
+
+##### Highlights
+
+* Thorough documentation provided both for my code as well as many previously undocumented quirks and features of the engine.
+* Innovation of the A Star algorithm using object-oriented best practices to help the algorithm mitigate unknown side effects applied to algorithm output
 
 ### Contact
 
