@@ -36,7 +36,7 @@ An implementation of the classic [A* algorithm](https://en.wikipedia.org/wiki/A*
 * Innovation of the A Star algorithm using object-oriented best practices to help the algorithm mitigate unknown side effects applied to algorithm output
 
 ### mtgimg
-<img src="https://github.com/DFXLuna/mtgimg/blob/master/out.png">
+<img src="images/mtgimg.png">
 
 A command line tool for generating clean looking decklist images of Magic: the Gathering cards.
 
