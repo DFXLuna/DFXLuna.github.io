@@ -5,7 +5,7 @@ Hi, I'm a software developer looking for somewhere in the industry to get my foo
 ## Projects
 
 ### Slumlord Simulator
-<img src="https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SS3.png">
+<img src="images/SS3.png">
 
 A timewaster game developed in C# with Unity with auxiliary tools developed in Python. 
 
@@ -20,7 +20,7 @@ A timewaster game developed in C# with Unity with auxiliary tools developed in P
 * Custom language interpreter built in C# and language syntax checker built in Python
 
 ### Stochastic A Star
-<img src="https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SAS1.png">
+<img src="images/SAS1.png">
 
 ###### Image credit [Julian Togelius](http://julian.togelius.com/mariocompetition2009/)
 
