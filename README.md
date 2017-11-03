@@ -52,7 +52,7 @@ A command line tool for generating clean looking decklist images of Magic: the G
 
 ### Contact
 
-* [Resume](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/ResumeOct2017.pdf)
+* [Resume](MasterNov17.pdf)
 * [LinkedIn](https://www.linkedin.com/in/matt-grant-708462b1/)
 * [Email](mailto:teamuba@gmail.com)
 * [Github](https://github.com/DFXLuna)
