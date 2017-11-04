@@ -29,5 +29,5 @@ Most of the business logic is in [HomeManager.cs](https://github.com/DFXLuna/Slu
 
 
 #### Some Gifs
-![Slum1](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SS1.gif "Slumlord Sim")
-![Slum2](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/images/SS2.gif "Slumlord Sim")
+![Slum1](images/SS1.gif "Slumlord Sim1")
+![Slum2](images/SS2.gif "Slumlord Sim2")
