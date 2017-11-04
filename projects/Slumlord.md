@@ -1,6 +1,6 @@
 ### Slumlord Simulator: An Isometric Town Management Game
 
-Slumlord Simulator was a undertaken to gain experience in C# and Unity. It is and will forever be unfinished.
+Slumlord Simulator was a project undertaken to gain experience in C# and Unity. It is and will forever be unfinished.
 
 
 #### Summary
