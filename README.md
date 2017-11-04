@@ -9,7 +9,7 @@ Hi, I'm a software developer looking for somewhere in the industry to get my foo
 
 A timewaster game developed in C# with Unity with auxiliary tools developed in Python. 
 
-[Full details](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/projects/Slumlord.md) 
+[Full details](projects/Slumlord) 
 
 [Repo](https://github.com/DFXLuna/Slumlord-Simulator)
 
@@ -40,7 +40,7 @@ An implementation of the classic [A* algorithm](https://en.wikipedia.org/wiki/A*
 
 A command line tool for generating clean looking decklist images of Magic: the Gathering cards.
 
-[Full Details](https://github.com/DFXLuna/DFXLuna.github.io/blob/master/projects/mtgimg.md)
+[Full Details](projects/mtgimg.md)
 
 [Repo](https://github.com/DFXLuna/mtgimg)
 
