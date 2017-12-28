@@ -1,4 +1,4 @@
-### Slumlord Simulator: An Isometric Town Management Game
+### APT: An Isometric Apartment Management Game
 
 Slumlord Simulator was a project undertaken to gain experience in C# and Unity. It is and will forever be unfinished.
 
