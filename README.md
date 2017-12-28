@@ -11,7 +11,7 @@ A timewaster game developed in C# with Unity with auxiliary tools developed in P
 
 [Full details](projects/Slumlord) 
 
-[Repo](https://github.com/DFXLuna/Slumlord-Simulator)
+[Repo](https://github.com/DFXLuna/APT)
 
 ##### Highlights
 
