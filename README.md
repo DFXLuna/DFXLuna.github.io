@@ -9,7 +9,7 @@ Hi, I'm Matt Grant, a software developer looking for somewhere in the industry t
 
 A timewaster game developed in C# with Unity with auxiliary tools developed in Python. 
 
-[Full details](projects/apt.md) 
+[Full details](projects/apt) 
 
 [Repo](https://github.com/DFXLuna/APT)
 
