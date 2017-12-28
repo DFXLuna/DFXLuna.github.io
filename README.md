@@ -1,10 +1,10 @@
 # Matt Grant
 
-Hi, I'm a software developer looking for somewhere in the industry to get my foot in the door.
+Hi, I'm Matt Grant, a software developer looking for somewhere in the industry to get my foot in the door.
 
 ## Projects
 
-### Slumlord Simulator
+### APT
 <img src="images/SS3.png">
 
 A timewaster game developed in C# with Unity with auxiliary tools developed in Python. 
