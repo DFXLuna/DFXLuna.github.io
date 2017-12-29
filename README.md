@@ -10,6 +10,7 @@ Hi, I'm Matt Grant, a software developer looking for somewhere in the industry t
 The frontend of a compiler made for a compilers course at the University of Wyoming.
 
 [Full details](projects/decaf)
+
 [Repo](https://github.com/DFXLuna/Decaf)
 
 ##### Highlights
