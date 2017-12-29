@@ -4,6 +4,20 @@ Hi, I'm Matt Grant, a software developer looking for somewhere in the industry t
 
 ## Projects
 
+### Decaf Compiler Frontend
+<img src="images/D1.png">
+
+The frontend of a compiler made for a compilers course at the University of Wyoming.
+
+[Full details](projects/decaf)
+[Repo](https://github.com/DFXLuna/Decaf)
+
+##### Highlights
+
+* Demonstrates capacity for tackling difficult subjects
+* Explicit use of object-oriented design for division of responsibility between moving parts.
+* Clear example of familiarity with programming Linux.
+
 ### APT
 <img src="images/SS3.png">
 
@@ -52,7 +66,7 @@ A command line tool for generating clean looking decklist images of Magic: the G
 
 ### Contact
 
-* [Resume](MasterNov17.pdf)
+* [Resume](Resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/matt-grant-708462b1/)
 * [Email](mailto:teamuba@gmail.com)
 * [Github](https://github.com/DFXLuna)
